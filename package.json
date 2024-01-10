@@ -1,7 +1,7 @@
 {
   "name": "adv-js-hw5_1",
   "version": "1.0.0",
-  "description": "Домашнее задание к лекции «Object, Reflection и Proxy». for ... in",
+  "description": "Домашнее задание к лекции «Object, Reflection и Proxy». Destructuring",
   "main": "index.js",
   "scripts": {
     "test": "jest",
